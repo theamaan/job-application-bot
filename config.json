@@ -1,0 +1,10 @@
+{
+  "job_titles": ["DevOps Engineer", "Backend Developer", "SRE"],
+  "locations": ["Bangalore", "Remote", "Hyderabad"],
+  "max_distance_km": 25,
+  "experience_level": ["mid", "senior"],
+  "salary_range": { "min": 800000, "max": 2500000 },
+  "blocklist_companies": ["CompanyX", "ShadyStartup", "BadCorp"],
+  "required_skills": ["Python", "Docker", "Kubernetes", "CI/CD", "AWS"],
+  "timezone": "Asia/Kolkata"
+}

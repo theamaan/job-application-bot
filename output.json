@@ -1,0 +1,16 @@
+{
+  "matched_jobs": [
+    {
+      "title": "Senior DevOps Engineer",
+      "match_score": 80,
+      "salary_compliance": true,
+      "priority": "high",
+      "valid_until": "2025-06-30"
+    }
+  ],
+  "stats": {
+    "total_scraped": 1,
+    "filtered": 1,
+    "match_rate": "100%"
+  }
+}
